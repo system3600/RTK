@@ -1,3 +1,8 @@
+# B.A.F (Basic Automation Framework) - framework de automação basica feita por exnop
+# Versão do BAF utilizada no programa: 1.2 / versão mais atualizada 1.2
+# para conseguir mais informações e atualizações do BAF me adicione no discord: exnop
+
+
 import time
 import tkinter as tk
 
