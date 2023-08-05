@@ -17,7 +17,7 @@ def main():
     elif op == 4:
         cprint("Made By: exnop (discord)", 'light_magenta')
         print('Current version : 1.0')
-        print('launch date: ')
+        print('launch date: 05/08/2023')
         core.wait(2)
         main()
     elif op == 5:
