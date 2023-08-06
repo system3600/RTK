@@ -1,4 +1,4 @@
-## version 1.1 (scheduled launch for: 08/06/2023)
+## version 1.1 (scheduled launch for: 10/06/2023)
 
 - improved beta GUI interface
 - updated baf version V1.2 -> V1.4
