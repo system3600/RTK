@@ -1,4 +1,6 @@
-## version 1.1 (scheduled launch for: 08/10/2023 | codiname: harverst)
+## version 1.1 (scheduled launch for: read the update above | codiname: harverst)
+
+important note about the 1.1 update: the initial release of 8/11/23 cannot be fulfilled as I am improving and perfecting the program code in order to make it more stable and with less memory consumption, that said I will be postponing the release until the program is "complete", according to my estimates it will be ready by 08/20/2023, but this date may vary more or less, thank you for your cooperation
 
 - improved beta GUI interface
 - updated baf version V1.2 -> V1.5 (the framework has undergone numerous additions and improvements in the code making the new version essential in the use of future automations (old projects will not receive the new update)
